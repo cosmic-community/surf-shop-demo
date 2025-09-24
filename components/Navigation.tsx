@@ -6,6 +6,7 @@ export default function Navigation() {
     { href: '/products', label: 'Products' },
     { href: '/collections', label: 'Collections' },
     { href: '/reviews', label: 'Reviews' },
+    { href: '/contact', label: 'Contact' },
   ]
 
   return (
